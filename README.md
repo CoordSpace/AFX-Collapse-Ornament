@@ -13,4 +13,4 @@ Special thanks go to reddit user /u/energyface for his vector trace of the colla
 
 ## LICENSE
 
-Check out the MyMiniFactory posting for up-to-date information on the licensing for this design.
+Check out the [MyMiniFactory posting](cutit.org/afxmas) for up-to-date information on the licensing for this design.
